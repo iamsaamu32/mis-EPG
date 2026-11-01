@@ -25,6 +25,17 @@
     <category lang="es">Entretenimiento</category>
   </programme>
 
+      <channel id="Silver">
+    <display-name lang="es">Silver</display-name>
+    <icon src="https://i.ibb.co/FbGvNPsk/IMG-0104.png" />
+  </channel>
+
+  <programme start="20261029060000 +0000" stop="20261102060000 +0000" channel="Silver">
+    <title lang="es">Silver</title>
+    <desc lang="es">Silver TV es un canal pensado para el público sénior, con una programación de conversación, actualidad, bienestar, salud, cultura, ciencia y entretenimiento. Disfruta de programas con rostros queridos de la televisión chilena, historias inspiradoras, música y recuerdos de los años 70, 80 y 90, además de documentales, viajes, conciertos y contenidos sobre tecnología y longevidad.</desc>
+    <category lang="es">Entretenimiento</category>
+  </programme>
+
   <channel id="CoyhaiqueTV">
     <display-name lang="es">Coyhaique TV</display-name>
     <icon src="https://i.ibb.co/QhSddtZ/ctv.png" />
